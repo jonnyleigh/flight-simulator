@@ -1,5 +1,10 @@
 # JavaScript Flight Simulator
 
+https://flightsim.jonnyleigh.co.uk/
+
+![Screenshot of flightsim](scrennshots/shot1.png)
+![Screenshot of flightsim](scrennshots/shot2.png)
+
 A single-player, in-browser flight simulator built with Three.js. Physics, audio, and all assets are generated entirely in code — no external files required.
 
 ## Features
@@ -36,7 +41,7 @@ No build tools or bundlers are required. The project runs directly in the browse
 
 ### Option 1 — Live Web Hosting
 
-You can access the flight simulator here: INSERT URL WHEN CREATED
+You can access the flight simulator here: [PLAY ONLINE](https://flightsim.jonnyleigh.co.uk/)
 
 
 ### Option 2 — Local PowerShell script
